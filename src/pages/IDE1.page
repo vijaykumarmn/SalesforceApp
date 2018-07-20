@@ -2,7 +2,7 @@
 <!-- Begin Default Content REMOVE THIS -->
 <apex:pageBlock >
 <h1>Congratulations</h1>
-This is your new Page
+This is your new Page..
 </apex:pageBlock>
 <!-- End Default Content REMOVE THIS -->
 </apex:page>
